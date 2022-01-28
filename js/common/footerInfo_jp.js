@@ -1,0 +1,1 @@
+$('.footerInfo').html('<div class="infoContent contact"><h3>連絡先情報</h3><ul><li>連絡先：玉山銀行「E.SUN Awards」活動係</li><li>所在地：105台北市松山区民生東路三段117号</li><li>電話：+886-2-21751313</li><li>内線：#8127 劉佳蕙 科長 | #8126 謝依珊 副科長</li><li>e-mail：esun-awards@esunbank.com.tw</li></ul></div>');
