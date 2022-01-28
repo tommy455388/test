@@ -1,0 +1,458 @@
+{
+    "secondAdult" : [
+      {
+        "prize" : "First Prize",
+        "name" : "Chu Huei-Fen",
+        "artName" : "Yushan’s Spring",
+        "size" : "30F",
+        "descript" : "During the cold season of Yushan, the blossoming flowers are particularly beautiful, while the trees at the top of the mountains form a distinctively pleasing silhouette, and the elegant shape of the Main Peak forms the most moving scenery.",
+        "imgUrl" : "./images/art/img25-1.jpg"
+      },
+      {
+        "prize" : "Special Selection",
+        "name" : "Chang Ling",
+        "artName" : "Painting of Yushan",
+        "size" : "30F",
+        "descript" : "The main axis is the body within the universe, while the collective consciousness of the body in the landscape projects the strength and longevity of the great mountains and rivers, depicting an image of Yushan that that exudes the atmosphere of Taiwan.",
+        "imgUrl" : "./images/art/img25-2.jpg"
+      },
+      {
+        "prize" : "Special Selection",
+        "name" : "Chen Ting-Hsu",
+        "artName" : "Mountain in Freestyle",
+        "size" : "30F",
+        "descript" : "The free flowing lines and dripping technique add a sense of movement and vitality to the majestic and steady composition of the mountain.",
+        "imgUrl" : "./images/art/img25-3.jpg"
+      },
+      {
+        "prize" : "Special Selection",
+        "name" : "Huang Po-Wei",
+        "artName" : "Night Country’s Morning, Yushan’s Sky",
+        "size" : "30F",
+        "descript" : "The mountains and clouds made up of human bodies interpret the state of mind of reaching the summit after enduring hardship. It depicts the moment before sunrise, implying the arrival of light.",
+        "imgUrl" : "./images/art/img25-4.jpg"
+      },
+      {
+        "prize" : "Outstanding",
+        "name" : "Ho Huei-Shan",
+        "artName" : "Praises to Yushan",
+        "size" : "30F",
+        "descript" : "The use of a scraper to construct the mountain hills and the splashing technique to create dripping water express the mountain’s unique atmosphere, while the color blocks and dots are connected to present the tall and winding mountainside of Yushan.",
+        "imgUrl" : "./images/art/img25-5.jpg"
+      },
+      {
+        "prize" : "Outstanding",
+        "name" : "Lee Chi-Hsuan",
+        "artName" : "Starry Sky Over Mountain",
+        "size" : "30F",
+        "descript" : "The vast starry sky is linked to the sublime Yushan, in order to depict the alternating moment between night and dawn and to present a distant and tranquil atmosphere.",
+        "imgUrl" : "./images/art/img25-6.jpg"
+      },
+      {
+        "prize" : "Outstanding",
+        "name" : "Wang Cheng-En",
+        "artName" : "Yushan Fortunes",
+        "size" : "30F",
+        "descript" : "The magnificence and grandeur of Yushan is expressed in the composition style of the Northern Song Dynasty, using the classical technique of contrasting light and darkness in a realistic manner. The native Formosan Mountain Dog at the bottom of the picture is looking at Yushan in the distance, which also symbolizes the eternal Yushan guarding Taiwan.",
+        "imgUrl" : "./images/art/img25-7.jpg"
+      },
+      {
+        "prize" : "Outstanding",
+        "name" : "Lin Yang-Ting",
+        "artName" : "To the Peak",
+        "size" : "30F",
+        "descript" : "When on the path to the Main Peak, it is like being on the shoulders of a giant, where the traveler climbs to the heights relentlessly, hoping to see all the beauty of Taiwan across the towering body of Yushan.",
+        "imgUrl" : "./images/art/img25-8.jpg"
+      },
+      {
+        "prize" : "Outstanding",
+        "name" : "Chang Chuan-Feng",
+        "artName" : "Morning Moon on Yushan",
+        "size" : "30F",
+        "descript" : "The moon has not yet sunk in the west, and Yushan in the morning light is full of infinite vitality under the sunlight, presenting a beautiful new world where fantasy and reality coexist.",
+        "imgUrl" : "./images/art/img25-9.jpg"
+      },
+      {
+        "prize" : "Outstanding",
+        "name" : "Chang Rong-Chan",
+        "artName" : "Image Specimen: Main Peak of Yushan",
+        "size" : "30F",
+        "descript" : "Through painting, the appearance of Yushan is stored in a paper image, presenting a scene of Yushan’s Main Peak that is frozen in time and space, like a specimen of an image record that preserves the traces of history and memory.",
+        "imgUrl" : "./images/art/img25-10.jpg"
+      },
+      {
+        "prize" : "Outstanding",
+        "name" : "Chen Hsiu-Wen",
+        "artName" : "Bottle Series - Beauty of Yushan",
+        "size" : "30F",
+        "descript" : "A still life painting that combines the biodiversity of Yushan. The glass bottle is hard but fragile, symbolizing the careful strength of caring for the land. The old photos are a metaphor for the traces of history and raise awareness of the need to protect Taiwan’s environment.",
+        "imgUrl" : "./images/art/img25-11.jpg"
+      },
+      {
+        "prize" : "Outstanding",
+        "name" : "Chen Yi-Ru",
+        "artName" : "The Dwarf’s Fantastical Journey on Yushan",
+        "size" : "30F",
+        "descript" : "The dwarf pursues the beauty at the peak of Yushan, which symbolizes the journey of pursuing dreams and persevering in the face of various hardships before finally seeing the most beautiful scenery.",
+        "imgUrl" : "./images/art/img25-12.jpg"
+      },
+      {
+        "prize" : "Outstanding",
+        "name" : "Liao Pen-Shen",
+        "artName" : "Love Taiwan, Love Yushan",
+        "size" : "30F",
+        "descript" : "The powerful love for the homeland is as tightly linked as silk threads. The majestic Yushan towers into the blue sky, guarding Taiwan and carrying the beauty and sorrows of this land.",
+        "imgUrl" : "./images/art/img25-13.jpg"
+      },
+      {
+        "prize" : "Outstanding",
+        "name" : "Chung Chi-Chao",
+        "artName" : "Monologue of a Juniper on Yushan",
+        "size" : "30F",
+        "descript" : "The clouds surround the Main Peak of Yushan, as if covered with a veil. The towering juniper stands on the roof of Taiwan and presents its delightful dances to Yushan.",
+        "imgUrl" : "./images/art/img25-14.jpg"
+      }
+    ],
+    "secondStudent" : [
+        {
+          "prize" : "First Prize",
+          "name" : "Tsai Wei-Chieh",
+          "artName" : "To the One Who Dreams",
+          "size" : "30F",
+          "descript" : "The observant composition and brushstrokes seem to incorporate the real world into the painting, and pay tribute to director Chi Po-Lin, linking the aesthetics of Yushan and the land of Taiwan with the passion of creation.",
+          "imgUrl" : "./images/art/img25-s1.jpg"
+        },
+        {
+          "prize" : "Special Selection",
+          "name" : "Lee Bing-Ao",
+          "artName" : "View from the White Rock",
+          "size" : "25P",
+          "descript" : "By manipulating the regular brushstrokes on the thick paint, the three-dimensional sense of the mountain is extended from the painting, breaking the relationship between flat canvas and space, and revealing the majesty and expansiveness of the mountain.",
+          "imgUrl" : "./images/art/img25-s2.jpg"
+        },
+        {
+          "prize" : "Special Selection",
+          "name" : "Ji Hong-Ying",
+          "artName" : "Yushan Embroidered",
+          "size" : "30F",
+          "descript" : "In the process of self-internalization, the beautiful scenery in the frame and the black and white world are highlighted by the contrast between falseness and reality in monochrome and the blurred border between reality and imagination. The inner and outer parts of the painting are clearly divided by this border which encircles the colorful world of Yushan.",
+          "imgUrl" : "./images/art/img25-s3.jpg"
+        },
+        {
+          "prize" : "Special Selection",
+          "name" : "Lei Kai-Hsun",
+          "artName" : "Impression of Yushan",
+          "size" : "30P",
+          "descript" : "The light reflects the facade of Yushan in its untainted elegance, but at the same time so determined and persistent, bringing the light of hope and kissing the land.",
+          "imgUrl" : "./images/art/img25-s4.jpg"
+        },
+        {
+          "prize" : "Outstanding",
+          "name" : "Wu Po-Wei",
+          "artName" : "Desperately Guarding",
+          "size" : "30F",
+          "descript" : "Through the imagery of a jigsaw puzzle, it incorporates the theme of environmental conservation, symbolizing the beauty of Yushan, which is reassembled one step at a time and looking to us to protect this piece of heaven on earth together.",
+          "imgUrl" : "./images/art/img25-s5.jpg"
+        },
+        {
+          "prize" : "Outstanding",
+          "name" : "Lu Chi",
+          "artName" : "Dazzling",
+          "size" : "30P",
+          "descript" : "Thick layers of paint is used to pile up the body of the mountain, where the mutual integration of the pigments is just like the fragrance of birds and flowers in spring, warming the land we are in, while the blooming azaleas are like a spring feast offered by nature.",
+          "imgUrl" : "./images/art/img25-s6.jpg"
+        },
+        {
+          "prize" : "Outstanding",
+          "name" : "Lee Chi-Jung",
+          "artName" : "Solitude, Yushan",
+          "size" : "30F",
+          "descript" : "The contrast of lines and light is handled with precise outlining. The breathtaking clouds and mist of Yushan are like a scene from a dream. Even if one goes forward alone, as long as one keeps on walking with faith, we will be blessed by the mountains.",
+          "imgUrl" : "./images/art/img25-s7.jpg"
+        },
+        {
+          "prize" : "Outstanding",
+          "name" : "Chou Sheng-Chieh",
+          "artName" : "Yushan Zen",
+          "size" : "30F",
+          "descript" : "The mastery of light is clear depicted, as if sprouting from the heart to exude a calm and collected emotion, in order to show respect for Yushan in an ethereal silence, relaxed and at ease.",
+          "imgUrl" : "./images/art/img25-s8.jpg"
+        },
+        {
+          "prize" : "Outstanding",
+          "name" : "Lin Chun-Hsien",
+          "artName" : "Magnificence after Hardship",
+          "size" : "30F",
+          "descript" : "The sunlight reflecting on the mountain peak reveals the vitality and greenery of the forest. When climbers see this view after going through a lot of obstacles and challenges, all the hard work is worth it.",
+          "imgUrl" : "./images/art/img25-s9.jpg"
+        },
+        {
+          "prize" : "Outstanding",
+          "name" : "Tseng Wei-Ting",
+          "artName" : "Mt. Morrison",
+          "size" : "15F",
+          "descript" : "Rough textures are used to express the shape of Yushan, creating a distinctive three-dimensional outline, as if one could feel the cold mountain wind whistling past. It contrasts with the presentation of the background plane to fully express the majestic Yushan.",
+          "imgUrl" : "./images/art/img25-s10.jpg"
+        },
+        {
+          "prize" : "Outstanding",
+          "name" : "Liu Tzi-Fan",
+          "artName" : "I Am Here",
+          "size" : "30P",
+          "descript" : "The artist incorporates his own hiking experience into the painting. He attempts to close the distance to the mountains by using imaginative presentation techniques and vibrant colors to integrate the mountain ecosystem with the magnificent scenery in a dreamy fairytale land, paying tribute to the all the life he sees.",
+          "imgUrl" : "./images/art/img25-s11.jpg"
+        },
+        {
+          "prize" : "Outstanding",
+          "name" : "Liu Yu-Chun",
+          "artName" : "Blushing Yushan",
+          "size" : "30F",
+          "descript" : "The artist’s liberal brushstrokes outline and depict an refreshing and unconventional image of Yushan. Even without focusing on the details of the flowers, the resolute and unshakable faith is still clearly shown, embracing Taiwan with the purest heart.",
+          "imgUrl" : "./images/art/img25-s12.jpg"
+        },
+        {
+          "prize" : "Outstanding",
+          "name" : "Tai Tzu-Hsiang",
+          "artName" : "Peak of Formosa",
+          "size" : "30F",
+          "descript" : "The afternoon sunlight falls on the mountain peaks, and the shimmering golden color of the mountain tops is different from the usual verdant majesty. Alpine azaleas are in full bloom, making the golden ridge echo with the foreground, while butterflies dancing on the canvas bring out a bright new hope for the beauty of Taiwan.",
+          "imgUrl" : "./images/art/img25-s13.jpg"
+        },
+        {
+          "prize" : "Outstanding",
+          "name" : "Hsieh Chia-Jung",
+          "artName" : "Beauty of Yushan",
+          "size" : "30F",
+          "descript" : "The lovely island of Taiwan is filled with the beauty of humanity and nature, and the memory of the photo recalls the moments of the past. The pure and sacred lilies lie in the embrace of the earth, creating endless imagination to the viewer.",
+          "imgUrl" : "./images/art/img25-s14.jpg"
+        }
+    ],
+    "firstAdult" : [
+        {
+          "prize" : "First Prize",
+          "name" : "Leigh Wen",
+          "artName" : "Yu-Shang #7",
+          "size" : "40P",
+          "descript" : "Professional Painter. The work is created by stacking several layers of different base colors on the canvas, then applying various dark shades of oil paint, and using a sharp knife to carve out lines, in order to express the brightness and texture of the mountains. It presents the powerful steadfastness, approachability, and noble dignity of Yushan, generously sharing its abundance of resources and eternal strength.",
+          "imgUrl" : "./images/art/img20-1.jpg"
+        },
+        {
+          "prize" : "Special Selection",
+          "name" : "Tan Kuo-Chih",
+          "artName" : "Gazing Upon Yushan",
+          "size" : "30F",
+          "descript" : "Associate Professor, Department of Fine Arts, Chinese Culture University. This painting presents the grand majesty of the main peak of Yushan and along with the mountains surrounding it, and shows the layers of mountains and forests.",
+          "imgUrl" : "./images/art/img20-2.jpg"
+        },
+        {
+          "prize" : "Special Selection",
+          "name" : "Lee Ming-Chung",
+          "artName" : "Glorious Snowy Yushan",
+          "size" : "40F",
+          "descript" : "Professional Painter. The pure and clear air of Yushan allows for extraordinary visibility. The illuminated surface is very bright, with rich layers of blue expressed by the shadows.",
+          "imgUrl" : "./images/art/img20-3.jpg"
+        },
+        {
+          "prize" : "Special Selection",
+          "name" : "Liu Ching-Lin",
+          "artName" : "Diary of a Bottle - Longing for Yushan",
+          "size" : "30F",
+          "descript" : "Hearing-Disabled Artist. Yushan stands tall in the clouds, like a box containing the precious treasure of life, a picture that transcends space and time, that fills the diary in the bottle.",
+          "imgUrl" : "./images/art/img20-4.jpg"
+        },
+        {
+          "prize" : "Outstanding",
+          "name" : "Wang Chih-Pin",
+          "artName" : "Spring Snow in Sunlight",
+          "size" : "40M",
+          "descript" : "Professional Painter. The view is from Jyunda Boulevard looking towards the Main Peak and the north peak in March, where the vibrant colors of spring and the snow add many layers of textures and variations.",
+          "imgUrl" : "./images/art/img20-5.jpg"
+        },
+        {
+          "prize" : "Outstanding",
+          "name" : "Lee Cheng-Chieh",
+          "artName" : "Gazing at Far Yushan",
+          "size" : "40F",
+          "descript" : "The interplay of warm and cool colors portrays the steadfast and towering image of Yushan, recreating the majesty of the natural landscape.",
+          "imgUrl" : "./images/art/img20-6.jpg"
+        },
+        {
+          "prize" : "Outstanding",
+          "name" : "Chen Liang-Yuan",
+          "artName" : "Moonlit Mountains",
+          "size" : "30F",
+          "descript" : "A bright moon hangs high above Yushan (representing Taiwan), symbolizing the celestial stars shining on Taiwan and giving it their blessing.",
+          "imgUrl" : "./images/art/img20-7.jpg"
+        },
+        {
+          "prize" : "Outstanding",
+          "name" : "Huang Yung-Hung",
+          "artName" : "Golden Yushan",
+          "size" : "30F",
+          "descript" : "The warm and rich brushstrokes that were spread rapidly across the canvas convey the joy of dawn that breaks the silence of the dark night.",
+          "imgUrl" : "./images/art/img20-8.jpg"
+        },
+        {
+          "prize" : "Outstanding",
+          "name" : "Lin Ching-Yuan",
+          "artName" : "A Travel Map of Yushan",
+          "size" : "40M",
+          "descript" : "Based on the conflict between nature and contemporary civilization as the starting point, the natural Yushan, the garbage in the stream, the hermit, and the clouded leopard quietly protect this pure haven of humans.",
+          "imgUrl" : "./images/art/img20-9.jpg"
+        },
+        {
+          "prize" : "Outstanding",
+          "name" : "Huang Chi-Meng",
+          "artName" : "The Mighty Yushan",
+          "size" : "40M",
+          "descript" : "The rich depth of field and changes in light and shadow express the majestic beauty of Yushan.",
+          "imgUrl" : "./images/art/img20-10.jpg"
+        },
+        {
+          "prize" : "Outstanding",
+          "name" : "Ho Huey-Chih",
+          "artName" : "Taiwan's Sacred Mountain - Yushan",
+          "size" : "40F",
+          "descript" : "The peaks of Yushan contain many precious treasures of life, showing the balanced symbiosis of animal species and plants biodiversity.",
+          "imgUrl" : "./images/art/img20-11.jpg"
+        },
+        {
+          "prize" : "Outstanding",
+          "name" : "Liao Chi-Heng",
+          "artName" : "Morning Song of Yushan",
+          "size" : "40F",
+          "descript" : "The dawn breeze caresses Yushan, the light of daybreak remains dusky, and in that moment when there is only silence, the sea of clouds stains the sky.",
+          "imgUrl" : "./images/art/img20-12.jpg"
+        },
+        {
+          "prize" : "Outstanding",
+          "name" : "Ou Shou-He",
+          "artName" : "Laurel Crown of Yushan",
+          "size" : "40F",
+          "descript" : "Taiwan’s humanistic charm and the majestic Yushan coexist in the same image, presenting the power and beauty of Taiwan and Yushan.",
+          "imgUrl" : "./images/art/img20-13.jpg"
+        },
+        {
+          "prize" : "Outstanding",
+          "name" : "Yen Ching-Chieh",
+          "artName" : "Backbone of Formosa",
+          "size" : "40M",
+          "descript" : "Taiwan is like a swimming whale, and Yushan in the Central Mountain Range is like the backbone of the whale, transforming the island into a lovely creature filled with life.",
+          "imgUrl" : "./images/art/img20-14.jpg"
+        }
+    ],
+    "firstStudent" : [
+        {
+          "prize" : "First Prize",
+          "name" : "Chen Ching-Ming",
+          "artName" : "Tranquil",
+          "size" : "25F",
+          "descript" : "Department of Fine Arts, Taipei National University of the Arts; specializing in Western painting and ink wash painting. Colors and brushstrokes outline the green landscape covering the mountain peaks, showing the less known gentle side of Yushan. Through the dialogue between the hikers and the nature, we discover the tranquil but more authentic Yushan, and at the same time, we also feel the often-ignored quiet beauty.",
+          "imgUrl" : "./images/art/img20-s1.jpg"
+        },
+        {
+          "prize" : "Special Selection",
+          "name" : "Sung Mei-Hui",
+          "artName" : "Vitality of Yushan",
+          "size" : "40F",
+          "descript" : "Master of Fine Arts, National Taiwan University of Arts; specializing in Western painting. The Main Peak in winter and the juniper symbolizing perseverance are used to show the strong vitality of Yushan.",
+          "imgUrl" : "./images/art/img20-s2.jpg"
+        },
+        {
+          "prize" : "Special Selection",
+          "name" : "Yang Chia-An",
+          "artName" : "Ascension",
+          "size" : "15P",
+          "descript" : "Western Painting Division, Department of Fine Arts, National Taiwan Normal University. Through the faint light of day and the people engaged in various movements, it expressed the vitality felt in the process of ascending to the peak.",
+          "imgUrl" : "./images/art/img20-s3.jpg"
+        },
+        {
+          "prize" : "Special Selection",
+          "name" : "Liang Chia-Wei",
+          "artName" : "Blossoming",
+          "size" : "40F",
+          "descript" : "Department of Visual Arts, University of Taipei The cat fur and flowers are layered to create a vitality-filled journey and warm memories.",
+          "imgUrl" : "./images/art/img20-s4.jpg"
+        },
+        {
+          "prize" : "Outstanding",
+          "name" : "Kong Wei",
+          "artName" : "Morning of Yushan",
+          "size" : "40P",
+          "descript" : "Department of Painting and Calligraphy Arts, National Taiwan University of Arts. The purity and cleanness of the snow on Yushan nourishes and nurtures beautiful Taiwan.",
+          "imgUrl" : "./images/art/img20-s5.jpg"
+        },
+        {
+          "prize" : "Outstanding",
+          "name" : "Chiang Yun-Jen",
+          "artName" : "Yushan’s Spring",
+          "size" : "40F",
+          "descript" : "Fine Arts Division, Fu-Hsin Arts and Trade School. The azaleas and the green hills create the perfect interpretation of the harmony between strength and flexibility.",
+          "imgUrl" : "./images/art/img20-s6.jpg"
+        },
+        {
+          "prize" : "Outstanding",
+          "name" : "Cheng Yuan",
+          "artName" : "Yushan Sunrise",
+          "size" : "40F",
+          "descript" : "National Taiwan University of Arts. The silvery white snowflakes and the dazzling light together create a vibrant sunrise of Yushan.",
+          "imgUrl" : "./images/art/img20-s7.jpg"
+        },
+        {
+          "prize" : "Outstanding",
+          "name" : "Hou Chin-Heng",
+          "artName" : "To the Pinnacle",
+          "size" : "100x80",
+          "descript" : "National Taiwan University of Arts. The imposing Main Peak of Yushan and its vibrant surroundings are intertwined to create the music of life.",
+          "imgUrl" : "./images/art/img20-s8.jpg"
+        },
+        {
+          "prize" : "Outstanding",
+          "name" : "Kuo Chia-Hung",
+          "artName" : "Mystique of Yushan",
+          "size" : "30P",
+          "descript" : "Department of Fine Arts, National Taichung University of Education. The rose color is used as the base tone to fully demonstrate the mystique of Yushan.",
+          "imgUrl" : "./images/art/img20-s9.jpg"
+        },
+        {
+          "prize" : "Outstanding",
+          "name" : "Chen You-Peng",
+          "artName" : "Mind’s Yushan",
+          "size" : "30F",
+          "descript" : "Department of Fine Arts, Huafan University. The special brushstrokes show Yushan’s haze of emptiness and its towering magnificence.",
+          "imgUrl" : "./images/art/img20-s10.jpg"
+        },
+        {
+          "prize" : "Outstanding",
+          "name" : "Chen Hsiang-Ling",
+          "artName" : "Distant View of Yushan",
+          "size" : "40F",
+          "descript" : "National Taiwan University of Arts. Through the panoramic composition, it highlights the gradual awakening of the Main Peak amidst the snow-covered peaks of Yushan.",
+          "imgUrl" : "./images/art/img20-s11.jpg"
+        },
+        {
+          "prize" : "Outstanding",
+          "name" : "Chen Si-Hua",
+          "artName" : "To the Pinnacle",
+          "size" : "15P",
+          "descript" : "Toko University. Bright, strong contrasting colors and tight lines create a world full of imagination.",
+          "imgUrl" : "./images/art/img20-s12.jpg"
+        },
+        {
+          "prize" : "Outstanding",
+          "name" : "Chen Pin-Han",
+          "artName" : "Winter in Yushan",
+          "size" : "40F",
+          "descript" : "Western Painting Division, Department of Fine Arts, National Taiwan Normal University. The silvery mountain peaks paired with the warm colors of sunset fully express the masculine strength and feminine beauty of Yushan.",
+          "imgUrl" : "./images/art/img20-s13.jpg"
+        },
+        {
+          "prize" : "Outstanding",
+          "name" : "Lai Rui-Ling",
+          "artName" : "Celebration 20 of Yushan",
+          "size" : "40F",
+          "descript" : "Tainan University of Technology The staggered textures and vibrant colors demonstrate the splendor of Yushan across the changing seasons.",
+          "imgUrl" : "./images/art/img20-s14.jpg"
+        }
+    ]
+}

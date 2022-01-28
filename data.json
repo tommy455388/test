@@ -1,0 +1,458 @@
+{
+    "secondAdult" : [
+      {
+        "prize" : "首獎",
+        "name" : "朱慧芬",
+        "artName" : "玉山之春",
+        "size" : "30F",
+        "descript" : "在玉山冷冽的天氣下，綻放的花朵格外美麗，山巔之樹，形成特殊的造型美感，造型優美的主峰，形成最動人的景色。",
+        "imgUrl" : "./images/art/img25-1.jpg"
+      },
+      {
+        "prize" : "特選",
+        "name" : "常陵",
+        "artName" : "玉山圖",
+        "size" : "30F",
+        "descript" : "以肉身之於宇宙為主軸，肉身山水亦即集體意識投射出大山大河的氣勢與悠遠，描述屬於台灣氣息的玉山圖。",
+        "imgUrl" : "./images/art/img25-2.jpg"
+      },
+      {
+        "prize" : "特選",
+        "name" : "陳亭序",
+        "artName" : "freestyle的山",
+        "size" : "30F",
+        "descript" : "以自由隨意的線條與滴流的創作技法，在山體雄偉穩固的構圖中，添加律動感與活力。",
+        "imgUrl" : "./images/art/img25-3.jpg"
+      },
+      {
+        "prize" : "特選",
+        "name" : "黃柏維",
+        "artName" : "夜鄉晨 玉親天",
+        "size" : "30F",
+        "descript" : "由人體組成的山體與雲彩，詮釋著歷經磨難後達到高峰的心境，描繪日出前的瞬間，暗喻著光明的到來。",
+        "imgUrl" : "./images/art/img25-4.jpg"
+      },
+      {
+        "prize" : "優選",
+        "name" : "何蕙珊",
+        "artName" : "玉山禮讚",
+        "size" : "30F",
+        "descript" : "以刮刀建構山陵氣勢，潑灑滴流表現山嵐氣韻，色塊與點線相連，呈現玉山的高峻逶迤。",
+        "imgUrl" : "./images/art/img25-5.jpg"
+      },
+      {
+        "prize" : "優選",
+        "name" : "李至玄",
+        "artName" : "岳暮星空",
+        "size" : "30F",
+        "descript" : "以浩瀚的宇宙星空聯結玉山的崇高，描繪出夜晚與曙光的交替的瞬間，呈現出悠遠寧靜的氛圍。",
+        "imgUrl" : "./images/art/img25-6.jpg"
+      },
+      {
+        "prize" : "優選",
+        "name" : "汪承恩",
+        "artName" : "玉山來福圖",
+        "size" : "30F",
+        "descript" : "以北宋山水的構圖意念表達出玉山的壯麗與宏偉，採取古典明暗對比技法，以寫實的方式表現，畫面下方的台灣原生犬，遠眺著玉山，也象徵永恆的玉山守護台灣。",
+        "imgUrl" : "./images/art/img25-7.jpg"
+      },
+      {
+        "prize" : "優選",
+        "name" : "林揚庭",
+        "artName" : "造極登峰",
+        "size" : "30F",
+        "descript" : "通往主峰的道路上，猶如身處巨人的肩上，旅人不懈怠地至高處攀爬，期盼藉著玉山高聳的身軀，望盡一切台灣的美好。",
+        "imgUrl" : "./images/art/img25-8.jpg"
+      },
+      {
+        "prize" : "優選",
+        "name" : "張泉豐",
+        "artName" : "玉山晨月",
+        "size" : "30F",
+        "descript" : "月亮尚未西沉，晨光中的玉山，在陽光照射下充滿無限的生機，呈現幻想與現實並存的美麗新世界。",
+        "imgUrl" : "./images/art/img25-9.jpg"
+      },
+      {
+        "prize" : "優選",
+        "name" : "張榕展",
+        "artName" : "影像標本：玉山主峰",
+        "size" : "30F",
+        "descript" : "透過繪畫，將玉山的樣貌儲存於紙本影像之中，表現出時空凝結的玉山主峰景象，如標本般的影像紀錄，保存著歷史與記憶的痕跡。",
+        "imgUrl" : "./images/art/img25-10.jpg"
+      },
+      {
+        "prize" : "優選",
+        "name" : "陳秀雯",
+        "artName" : "保瓶系列－玉山之美",
+        "size" : "30F",
+        "descript" : "採用靜物畫的形式結合玉山多樣的生態物種，玻璃瓶堅硬卻脆弱的特質，象徵用心呵護土地的力量，老相片隱喻著歷史的痕跡，喚起守護台灣環境的意識。",
+        "imgUrl" : "./images/art/img25-11.jpg"
+      },
+      {
+        "prize" : "優選",
+        "name" : "陳奕儒",
+        "artName" : "小矮人的玉山奇幻之旅",
+        "size" : "30F",
+        "descript" : "以追尋著玉山頂峰之美的小矮人，象徵追逐夢想的歷程，面對各種艱鉅考驗，仍然義無反顧地堅持，最終才能見到最美的景緻。",
+        "imgUrl" : "./images/art/img25-12.jpg"
+      },
+      {
+        "prize" : "優選",
+        "name" : "廖本生",
+        "artName" : "愛台灣‧玉山情",
+        "size" : "30F",
+        "descript" : "濃烈的鄉土之愛，像絲縷般緊緊相繫，巍巍玉山高聳入青天，守護著台灣，也乘載著這片土地的美麗與哀愁。",
+        "imgUrl" : "./images/art/img25-13.jpg"
+      },
+      {
+        "prize" : "優選",
+        "name" : "鍾騏兆",
+        "artName" : "玉山圓柏的獨白",
+        "size" : "30F",
+        "descript" : "雲霧繚繞玉山主峰，彷彿蓋上一層面紗，高聳的玉山圓柏，佇立在台灣屋脊上，以曼妙的姿態向玉山獻舞。",
+        "imgUrl" : "./images/art/img25-14.jpg"
+      }
+    ],
+    "secondStudent" : [
+        {
+          "prize" : "首獎",
+          "name" : "蔡維傑",
+          "artName" : "逐夢的人To the one who dreams",
+          "size" : "30F",
+          "descript" : "觀察入微的構圖與筆觸，像是將真實世界收納到畫裡，並向齊柏林導演致敬，將玉山美學與台灣土地用創作的熱情互相連結。",
+          "imgUrl" : "./images/art/img25-s1.jpg"
+        },
+        {
+          "prize" : "特選",
+          "name" : "李秉璈",
+          "artName" : "白石遠眺",
+          "size" : "25P",
+          "descript" : "在厚塗的顏料上操控著規律的皺擦筆觸，將山的立體感從畫中延伸，打破了平面畫布與空間的關係，展現出山的雄偉與遼闊氣勢。",
+          "imgUrl" : "./images/art/img25-s2.jpg"
+        },
+        {
+          "prize" : "特選",
+          "name" : "季和穎",
+          "artName" : "錦繡玉山",
+          "size" : "30F",
+          "descript" : "自我內化的過程中，框中美景與黑白天地，藉由單色凸顯虛實的對比與徘徊在真實及假想上的寄託，襯托出畫的內與外，孕育被賦予彩色世界的玉山。",
+          "imgUrl" : "./images/art/img25-s3.jpg"
+        },
+        {
+          "prize" : "特選",
+          "name" : "雷凱勛",
+          "artName" : "印象玉山",
+          "size" : "30P",
+          "descript" : "光線的照射映出玉山的臉龐，如此的清新高雅，同時也如此剛硬執著，帶著希望之光，親吻著這片土地。",
+          "imgUrl" : "./images/art/img25-s4.jpg"
+        },
+        {
+          "prize" : "優選",
+          "name" : "吳柏葳",
+          "artName" : "拚命守護",
+          "size" : "30F",
+          "descript" : "透過拼圖的意象，融入環境保育的議題，象徵一步一腳印重新拼湊出玉山的美貌，一起守護這片人間仙境。",
+          "imgUrl" : "./images/art/img25-s5.jpg"
+        },
+        {
+          "prize" : "優選",
+          "name" : "呂齊",
+          "artName" : "炫目",
+          "size" : "30P",
+          "descript" : "使用厚重的顏料堆疊出山的本體，彼此顏料的相互融合，就像春天鳥語花香一樣，溫暖我們身處的大地，一朵朵綻放的杜鵑，宛如大自然演奏一場春之饗宴。",
+          "imgUrl" : "./images/art/img25-s6.jpg"
+        },
+        {
+          "prize" : "優選",
+          "name" : "李紀瑢",
+          "artName" : "孤 玉山",
+          "size" : "30F",
+          "descript" : "採用精準的勾勒手法處理線條與光線的對比，美不勝收的玉山雲霧像是夢境的場景般，即使一個人向前走，只要堅持信念走下去，相信會獲得山林的庇佑。",
+          "imgUrl" : "./images/art/img25-s7.jpg"
+        },
+        {
+          "prize" : "優選",
+          "name" : "周聖傑",
+          "artName" : "禪玉",
+          "size" : "30F",
+          "descript" : "光線的掌握明確，彷彿從內心萌芽，散發沉穩內斂的情感，展現出對玉山的敬意，在空靈寂靜中，悠然自得。",
+          "imgUrl" : "./images/art/img25-s8.jpg"
+        },
+        {
+          "prize" : "優選",
+          "name" : "林峻賢",
+          "artName" : "艱辛後的壯闊",
+          "size" : "30F",
+          "descript" : "山峰被陽光映照透出了山林間的生氣蓬勃、綠意盎然，登峰者歷經千辛萬苦、拔山涉水後看到此景，霎那間一切的辛苦努力都值得了。",
+          "imgUrl" : "./images/art/img25-s9.jpg"
+        },
+        {
+          "prize" : "優選",
+          "name" : "曾尉庭",
+          "artName" : "Mt. Morrison",
+          "size" : "15F",
+          "descript" : "使用粗糙的材質表現玉山山形，營造出立體的特殊肌理線條，彷彿感受到冷列的山嵐呼嘯而過，與背景平面的呈現方式形成對比，充分的表現出雄偉的玉山。",
+          "imgUrl" : "./images/art/img25-s10.jpg"
+        },
+        {
+          "prize" : "優選",
+          "name" : "劉子凡",
+          "artName" : "我在這裡",
+          "size" : "30P",
+          "descript" : "將自身登山經驗融入畫中，試圖打破高山的距離感，並用天馬行空想像的呈現手法，搭配高彩度的用色，將高山生態與宏觀的風景結合如同夢中仙境，向所見的生命致敬。",
+          "imgUrl" : "./images/art/img25-s11.jpg"
+        },
+        {
+          "prize" : "優選",
+          "name" : "劉玉淳",
+          "artName" : "粉妝玉砌",
+          "size" : "30F",
+          "descript" : "畫家灑脫的筆觸勾勒、描繪出玉山清新脫俗的形象，即便少了花朵的嬌豔，仍然將堅毅不搖的信念果敢清楚的展現，期待用最純淨的心，擁抱著我們的台灣。",
+          "imgUrl" : "./images/art/img25-s12.jpg"
+        },
+        {
+          "prize" : "優選",
+          "name" : "戴子翔",
+          "artName" : "福爾摩沙之巔",
+          "size" : "30F",
+          "descript" : "午後的陽光撒落在山峰上，山頂上波光粼粼的金黃色不同於平時翠綠壯闊，高山杜鵑盛開，讓金黃色山脊，與前景相互呼應，畫布上翩翩起舞的蝴蝶為台灣的美景，舞出光明新希望。",
+          "imgUrl" : "./images/art/img25-s13.jpg"
+        },
+        {
+          "prize" : "優選",
+          "name" : "謝家容",
+          "artName" : "玉山之美",
+          "size" : "30F",
+          "descript" : "美麗的台灣寶島充滿了人文與生態之美，照片的回憶譜出了當年點滴，純潔神聖的百合躺在大地的懷抱中，帶給觀者無盡的想像。",
+          "imgUrl" : "./images/art/img25-s14.jpg"
+        }
+    ],
+    "firstAdult" : [
+        {
+          "prize" : "首獎",
+          "name" : "鄭麗雲",
+          "artName" : "Yu-Shang #7",
+          "size" : "40P",
+          "descript" : "專業畫家。作品創作先於畫布上堆疊多層不同的底色，然後上多種不同的深色油彩，以尖刀勾勒線條，顯現出山脈的亮光和肌理，展現玉山堅挺不拔、平易近人及高尚的尊嚴，默默地分享豐富的資源與永恆的力量。",
+          "imgUrl" : "./images/art/img20-1.jpg"
+        },
+        {
+          "prize" : "特選",
+          "name" : "譚國智",
+          "artName" : "玉山眺望",
+          "size" : "30F",
+          "descript" : "中國文化大學美術系副教授。呈現玉山主峰的雄偉氣勢與群山圍繞的王者之姿，展現山林的重巒疊翠。",
+          "imgUrl" : "./images/art/img20-2.jpg"
+        },
+        {
+          "prize" : "特選",
+          "name" : "李民中",
+          "artName" : "玉雪迎輝",
+          "size" : "40F",
+          "descript" : "專業畫家。玉山空氣純淨無塵埃，讓眼睛所見格外清楚，受光面十分明亮，陰影中呈現層次豐富的藍色。",
+          "imgUrl" : "./images/art/img20-3.jpg"
+        },
+        {
+          "prize" : "特選",
+          "name" : "劉勁麟",
+          "artName" : "瓶之日記－對玉山之憧憬",
+          "size" : "30F",
+          "descript" : "聽障畫家。玉山聳立在雲端，如箱裡蘊含著珍貴的生命寶藏，超越空間與時間的圖像，填入瓶之日記裡。",
+          "imgUrl" : "./images/art/img20-4.jpg"
+        },
+        {
+          "prize" : "優選",
+          "name" : "王智斌",
+          "artName" : "陽春霽雪",
+          "size" : "40M",
+          "descript" : "專業畫家。取景由郡大林道望向主峰、北峰，正逢三月，春色雪景交織增添不少層次變化。",
+          "imgUrl" : "./images/art/img20-5.jpg"
+        },
+        {
+          "prize" : "優選",
+          "name" : "李正傑",
+          "artName" : "玉山遠眺",
+          "size" : "40F",
+          "descript" : "冷暖色調的交錯融合，描繪出玉山堅毅聳立的形象，重塑出自然景觀的雄偉壯麗。",
+          "imgUrl" : "./images/art/img20-6.jpg"
+        },
+        {
+          "prize" : "優選",
+          "name" : "陳亮元",
+          "artName" : "岳月夜",
+          "size" : "30F",
+          "descript" : "一輪明月高掛於代表台灣的玉山，象徵宇宙繁星照耀台灣、護佑台灣。",
+          "imgUrl" : "./images/art/img20-7.jpg"
+        },
+        {
+          "prize" : "優選",
+          "name" : "黃永宏",
+          "artName" : "金耀玉山",
+          "size" : "30F",
+          "descript" : "溫暖豐厚且具速度感的筆觸，跳躍著黎明的喜悅，劃破了黑夜的沉寂。",
+          "imgUrl" : "./images/art/img20-8.jpg"
+        },
+        {
+          "prize" : "優選",
+          "name" : "林慶淵",
+          "artName" : "玉山行旅圖",
+          "size" : "40M",
+          "descript" : "以大自然和當代文明的衝突作為出發點，大自然的玉山、溪水中的垃圾，隱士與雲豹默默守護人類的淨土。",
+          "imgUrl" : "./images/art/img20-9.jpg"
+        },
+        {
+          "prize" : "優選",
+          "name" : "黃志盟",
+          "artName" : "巍峨玉山",
+          "size" : "40M",
+          "descript" : "豐富的景深與光影變化，表現玉山巍峨雄壯之美。",
+          "imgUrl" : "./images/art/img20-10.jpg"
+        },
+        {
+          "prize" : "優選",
+          "name" : "賀蕙芝",
+          "artName" : "台灣聖山-玉山",
+          "size" : "40F",
+          "descript" : "玉山群峰蘊含著珍貴的生命寶藏，展現多樣化動物群種和植物林相平衡的依存關係。",
+          "imgUrl" : "./images/art/img20-11.jpg"
+        },
+        {
+          "prize" : "優選",
+          "name" : "廖啟恒",
+          "artName" : "玉山晨曲",
+          "size" : "40F",
+          "descript" : "玉山臨曉風、曙光拂朦朧，萬籟寂靜時，雲海染蒼穹。",
+          "imgUrl" : "./images/art/img20-12.jpg"
+        },
+        {
+          "prize" : "優選",
+          "name" : "歐紹合",
+          "artName" : "玉山桂冠",
+          "size" : "40F",
+          "descript" : "將台灣人文的親和魅力及玉山的高壯雄偉兩種特質並存於同一畫面，呈現台灣與玉山的力與美。",
+          "imgUrl" : "./images/art/img20-13.jpg"
+        },
+        {
+          "prize" : "優選",
+          "name" : "嚴靖傑",
+          "artName" : "寶島背脊",
+          "size" : "40M",
+          "descript" : "台灣就像一隻游動的鯨魚，中央山脈上的玉山就像是鯨魚的背脊，使寶島幻化成有生命的可愛生物。",
+          "imgUrl" : "./images/art/img20-14.jpg"
+        }
+    ],
+    "firstStudent" : [
+        {
+          "prize" : "首獎",
+          "name" : "陳慶銘",
+          "artName" : "悠靜",
+          "size" : "25F",
+          "descript" : "國立台北藝術大學美術系，擅長西畫、水墨。用色彩與筆觸勾勒出滿覆山峰的綠地，展現玉山不為人知的柔情，透過登山者與大自然之間的對話，發現了寧靜但更真實的玉山，同時也更深刻感受到平時所忽略的悠靜美。",
+          "imgUrl" : "./images/art/img20-s1.jpg"
+        },
+        {
+          "prize" : "特選",
+          "name" : "宋玫慧",
+          "artName" : "玉山冷暖",
+          "size" : "40F",
+          "descript" : "國立台灣藝術大學藝術碩士，擅長油畫。以冬天的主峰與象徵毅力的圓柏展現玉山屹立不搖的強烈生命力。",
+          "imgUrl" : "./images/art/img20-s2.jpg"
+        },
+        {
+          "prize" : "特選",
+          "name" : "楊佳安",
+          "artName" : "登頂",
+          "size" : "15P",
+          "descript" : "國立台灣師範大學美術系西畫組。藉由微微透出的日光與充滿各種動態的人們，展現在登頂的過程中所感受到的生命力。",
+          "imgUrl" : "./images/art/img20-s3.jpg"
+        },
+        {
+          "prize" : "特選",
+          "name" : "梁家瑋",
+          "artName" : "綻放",
+          "size" : "40F",
+          "descript" : "台北市立教育大學視覺藝術研究所。以貓毛與花朵堆疊出充滿生命的歷程，並展現出溫暖的記憶。",
+          "imgUrl" : "./images/art/img20-s4.jpg"
+        },
+        {
+          "prize" : "優選",
+          "name" : "孔維",
+          "artName" : "玉山之晨",
+          "size" : "40P",
+          "descript" : "國立台灣藝術大學書畫藝術系。玉山瑞雪純淨自然，滋養孕育美麗台灣。",
+          "imgUrl" : "./images/art/img20-s5.jpg"
+        },
+        {
+          "prize" : "優選",
+          "name" : "江澐溱",
+          "artName" : "玉山之春",
+          "size" : "40F",
+          "descript" : "新北市私立復興商工美術科。遍地的杜鵑與翠綠的山崗展現剛柔並濟的最佳演繹。",
+          "imgUrl" : "./images/art/img20-s6.jpg"
+        },
+        {
+          "prize" : "優選",
+          "name" : "成媛",
+          "artName" : "玉山旭日",
+          "size" : "40F",
+          "descript" : "國立台灣藝術大學。銀白的雪花與耀眼的光芒共譜出充滿生命力的玉山日出。",
+          "imgUrl" : "./images/art/img20-s7.jpg"
+        },
+        {
+          "prize" : "優選",
+          "name" : "侯竫珩",
+          "artName" : "登峰造極",
+          "size" : "100x80",
+          "descript" : "國立台灣藝術大學。玉山主峰的氣勢與充滿生機的周遭交織出生命之音的樂章。",
+          "imgUrl" : "./images/art/img20-s8.jpg"
+        },
+        {
+          "prize" : "優選",
+          "name" : "郭家宏",
+          "artName" : "戀玉山",
+          "size" : "30P",
+          "descript" : "國立台中教育大學美術系研究所。以玫瑰色為基調充分展現了對玉山的迷戀。",
+          "imgUrl" : "./images/art/img20-s9.jpg"
+        },
+        {
+          "prize" : "優選",
+          "name" : "陳佑朋",
+          "artName" : "心中的玉山",
+          "size" : "30F",
+          "descript" : "華梵大學美術系。特殊的筆觸展現了玉山虛無飄渺的朦朧與高聳壯闊的美感。",
+          "imgUrl" : "./images/art/img20-s10.jpg"
+        },
+        {
+          "prize" : "優選",
+          "name" : "陳薌玲",
+          "artName" : "遠眺玉山",
+          "size" : "40F",
+          "descript" : "國立台灣藝術大學。透過全景式的構圖，突顯出在白雪覆蓋的群峰之中逐漸甦醒的玉山主峰。",
+          "imgUrl" : "./images/art/img20-s11.jpg"
+        },
+        {
+          "prize" : "優選",
+          "name" : "陳思樺",
+          "artName" : "登峰造極",
+          "size" : "15P",
+          "descript" : "稻江科技暨管理專科學校。鮮明、強烈的對比色與緊實的線條創造出一個充滿想像的世界。",
+          "imgUrl" : "./images/art/img20-s12.jpg"
+        },
+        {
+          "prize" : "優選",
+          "name" : "陳品翰",
+          "artName" : "聳入雲霄 玉山之冬",
+          "size" : "40F",
+          "descript" : "國立台灣師範大學美術系研究所西畫組。以銀色的山峰搭配日落的溫暖色調，充分詮釋玉山的陽剛與陰柔之美。",
+          "imgUrl" : "./images/art/img20-s13.jpg"
+        },
+        {
+          "prize" : "優選",
+          "name" : "賴睿聆",
+          "artName" : "慶20光耀玉山",
+          "size" : "40F",
+          "descript" : "台南應用科技大學。以凹凸肌理與豐富色彩表現玉山四季變化的繽紛。",
+          "imgUrl" : "./images/art/img20-s14.jpg"
+        }
+    ]
+}
